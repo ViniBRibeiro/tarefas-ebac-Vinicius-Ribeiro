@@ -1,0 +1,42 @@
+1.	Acordar;
+2.	Abrir os olhos;
+3.	Se despertador estiver tocando;
+4.	Desligar despertador;
+5.	Levantar-se da cama;
+6.	Se não estiver tocando;
+7.	Levantar-se da cama;
+8.	Andar até a porta do quarto;
+9.	Girar a maçaneta da porta;
+10.	Abrir a porta;
+11.	Andar até o banheiro;
+12.	Girar a maçaneta da porta;
+13.	Abrir a porta;
+14.	Entrar no banheiro;
+15.	Fechar a porta;
+16.	Abrir a ;
+17.	Lavar o rosto;
+18.	Fechar a ;
+19.	Secar rosto;
+20.	Pegar a escova de dentes;
+21.	Pegar a pasta de dentes;
+22.	Colocar pasta de dentes na escova;
+23.	Escovar os dentes;
+24.	Enxaguar a boca;
+25.	Secar o rosto;
+26.	Aguardar a escova e a pasta dente;
+27.	Abrir a porta;
+28.	Andar até a cozinha;
+29.	Pegar as comidas na geladeira;
+30.	Preparar o café da manhã;
+31.	Passar o café.
+32.	Levar o café da manhã até a mesa.
+33.	Comer;
+34.	Levar a louça até a pia;
+35.	Lavar a louça;
+36.	Secar a louça;
+37.	Ir até o quarto;
+38.	Trocar de roupa;
+39.	Pegar a chave do carro e da casa;
+40.	Abrir a porta.
+41.	Fechar;
+42.	Ir para o trabalho;
